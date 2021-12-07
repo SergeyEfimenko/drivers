@@ -13,8 +13,6 @@ export class FormComponent {
     });
 
     this.init();
-
-    console.log('test');
   }
 
   init() {
